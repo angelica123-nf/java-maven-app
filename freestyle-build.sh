@@ -1,1 +1,1 @@
-nmp --version
+node --version
